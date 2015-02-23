@@ -8,7 +8,7 @@ package javaapplication2;
 import java.util.*;
 
 /**
- *
+ * hola esto es una prueba
  * @author Nrike
  */
 public class JavaApplication2 {
